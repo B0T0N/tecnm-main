@@ -1,0 +1,25 @@
+.input_border{
+  /* background-color: aqua; */
+  border: 0;
+  outline: none;
+  border-bottom: 1px solid gray;
+  padding-left: 7px;
+  color: rgb(95, 95, 95);
+}
+
+.input_border:focus{
+  border-bottom: 1.2px solid black;
+}
+
+.input_largo{
+  width: 400px;
+}
+
+.input_corto{
+  width: 150px;
+}
+
+.parrafo_inputs{
+  text-align: justify;
+  line-height: 21px;
+}

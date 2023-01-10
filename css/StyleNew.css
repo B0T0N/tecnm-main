@@ -1,0 +1,82 @@
+
+/* pagina de evaluacionmaestro.php */
+
+.btn_buscar{
+  width: 80px;
+  height: 100%;
+  border-radius: 6px;
+  /* text-align: center; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 10px;
+
+}
+
+.container_input{
+  width: 100%;
+  height: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+  align-items: center;
+}
+
+.label_input {
+  width: 75px;
+  text-align: justify;
+  color: #686966;
+}
+
+.input_1 {
+  width: 120px;
+  height: 100%;
+  outline: none;
+  border-radius: 5px;
+  border-color: #95a5a6;
+  padding-left: 5px;
+}
+
+.input_2{
+  width: 450px;
+  height: 100%;
+  outline: none;
+  border-radius: 5px;
+  border-color: #95a5a6;
+  padding-left: 5px;
+}
+
+.table_datos_desempeño{
+  margin-top: 25px;
+}
+
+.container_obervacionesGuardar{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 25px;
+}
+
+.label_obs {
+  text-align: justify;
+  margin-bottom: 10px;
+  color: #636e72;
+}
+
+.obs {
+  max-width: 500px;
+  min-width: 50%;
+  height: 80px;
+  min-height: 50px;
+  border-color: #95a5a6;
+  
+}
+
+.btn_guardar {
+  padding: 20px 20px 20px 0;
+  display: flex;
+  justify-content: start;
+}
+
+
+

@@ -1,0 +1,10 @@
+/* pagina agregar-credito-user.php */
+.select_maestro {
+  height: 25px;
+  width: 40%;
+  border-radius: 20px;
+}
+
+.select_maestro:placeholder{
+  padding-left: 20px;
+}

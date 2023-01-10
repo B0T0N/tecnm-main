@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+.containerTitulo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.containerTitulo .titulo{
+  font-size: 80px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.containerTitulo .itchina{
+  width: 300px;
+
+}
